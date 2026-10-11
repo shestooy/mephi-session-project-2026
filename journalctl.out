@@ -1,0 +1,18 @@
+окт 11 20:38:28 mephi-2026.domain.local systemd[1]: Starting nginx.service - The nginx HTTP and reverse proxy server...
+окт 11 20:38:28 mephi-2026.domain.local nginx[1908]: nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
+окт 11 20:38:28 mephi-2026.domain.local nginx[1908]: nginx: configuration file /etc/nginx/nginx.conf test is successful
+окт 11 20:38:28 mephi-2026.domain.local systemd[1]: Started nginx.service - The nginx HTTP and reverse proxy server.
+окт 11 20:59:45 mephi-2026.domain.local systemd[1]: Stopping nginx.service - The nginx HTTP and reverse proxy server...
+окт 11 20:59:45 mephi-2026.domain.local systemd[1]: nginx.service: Deactivated successfully.
+окт 11 20:59:45 mephi-2026.domain.local systemd[1]: Stopped nginx.service - The nginx HTTP and reverse proxy server.
+окт 11 20:59:45 mephi-2026.domain.local systemd[1]: Starting nginx.service - The nginx HTTP and reverse proxy server...
+окт 11 20:59:45 mephi-2026.domain.local nginx[2062]: nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
+окт 11 20:59:45 mephi-2026.domain.local nginx[2062]: nginx: configuration file /etc/nginx/nginx.conf test is successful
+окт 11 20:59:45 mephi-2026.domain.local systemd[1]: Started nginx.service - The nginx HTTP and reverse proxy server.
+окт 11 21:06:59 mephi-2026.domain.local systemd[1]: Stopping nginx.service - The nginx HTTP and reverse proxy server...
+окт 11 21:06:59 mephi-2026.domain.local systemd[1]: nginx.service: Deactivated successfully.
+окт 11 21:06:59 mephi-2026.domain.local systemd[1]: Stopped nginx.service - The nginx HTTP and reverse proxy server.
+окт 11 21:06:59 mephi-2026.domain.local systemd[1]: Starting nginx.service - The nginx HTTP and reverse proxy server...
+окт 11 21:06:59 mephi-2026.domain.local nginx[2128]: nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
+окт 11 21:06:59 mephi-2026.domain.local nginx[2128]: nginx: configuration file /etc/nginx/nginx.conf test is successful
+окт 11 21:06:59 mephi-2026.domain.local systemd[1]: Started nginx.service - The nginx HTTP and reverse proxy server.
